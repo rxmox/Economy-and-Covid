@@ -38,11 +38,14 @@ Clone the repository to your local machine using:
 
 ```bash
 git clone https://github.com/yourusername/your-repository-name.git
+```
 
 ### Usage
 
 To run the application, navigate to the cloned directory, and execute:
+```
 python Final_project.py
+```
 
 
 Follow the prompts in the terminal to select the data processing and visualization options.
