@@ -53,8 +53,8 @@ This data analysis tool processes and visualizes multi-source datasets to help u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/covid-economic-impact-analysis.git
-cd covid-economic-impact-analysis
+git clone https://github.com/rxmox/Economy-and-Covid.git
+cd Economy-and-Covid
 ```
 
 2. Install required dependencies:
