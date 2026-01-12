@@ -89,6 +89,27 @@ Choose a letter corresponding to a topic:
     B - Economics
 ```
 
+## Screenshots
+
+### COVID-19 Analysis
+Comparative visualization showing case counts across states:
+
+![COVID-19 Case Analysis](screenshots/covid-analysis-california.png)
+*California COVID-19 case comparison with other states*
+
+![COVID-19 Deaths Analysis](screenshots/covid-deaths-comparison.png)
+*Death count comparisons across different states*
+
+### Economic Impact Analysis
+Dual-axis graphs showing unemployment and income trends:
+
+![Economic Analysis](screenshots/economic-analysis-texas.png)
+*Per capita income and unemployment rate trends (2019-2020)*
+
+### Terminal Interface
+![Terminal Interface](screenshots/terminal-interface.png)
+*Interactive command-line interface with statistical output*
+
 ## Data Sources
 
 This project integrates data from authoritative public sources:
